@@ -1,2 +1,2 @@
-# first-frontend-work
+# first-frontend-work.github.io
 first task
